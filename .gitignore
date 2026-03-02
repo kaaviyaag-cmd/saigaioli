@@ -3,7 +3,7 @@ node_modules
 .env.local
 .vercel
 dist
-isl_images
+isl_image
 __pycache__/
 *.pyc
 *.log
